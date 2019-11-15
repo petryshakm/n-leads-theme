@@ -1,0 +1,19 @@
+
+
+
+/*-----------------------------------------------sections in customizer*/
+#accordion-section-header_info h3,
+#accordion-section-footer_info h3{
+	background-color: #1C2F3D !important;
+	color: #fff !important;
+}
+#accordion-section-header_info .accordion-section-title:hover,
+#accordion-section-footer_info .accordion-section-title:hover{
+	background-color: #263F52 !important;
+}	
+
+#accordion-section-header_info .accordion-section-title:after,
+#accordion-section-footer_info .accordion-section-title:after{
+	color: #fff !important;
+}
+

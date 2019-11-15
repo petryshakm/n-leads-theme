@@ -1,0 +1,37 @@
+/*  
+Theme Name: n theme
+Description: Custom theme for Leads, based on Paper Dashboard template from creative-tim.com (https://www.creative-tim.com/product/paper-dashboard-2)
+Version: 1.0
+Text Domain: n-theme
+*/
+
+
+
+.table-leads-wrapper{
+	overflow-x: scroll;
+}
+.table-leads-wrapper table{
+	max-width: none;
+	width: 160%;
+}
+.table-leads-wrapper table thead th{
+	cursor: pointer;
+}
+.table-leads-wrapper .hide-tr{
+	display: none;
+}
+.table-leads-wrapper table a{
+	color: #252422;
+}
+.sidebar .nav a{
+	font-weight: 600;
+}
+.sidebar .nav .current-menu-item i,
+.sidebar .nav .current-menu-item a {
+	color: #ef8157;
+	opacity: 1;
+}
+.chart-wrapper{
+	width: 100%;
+	height: 300px;
+}
